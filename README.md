@@ -4,29 +4,35 @@ This list of writing prompts covers a range of topics and tasks, including brain
 
 这些命令提示语涵盖包括头脑风暴，语言和格式润色，撰写文献综述，制定研究计划等……
 
-Use directly in: [chat.openai.com](https://chat.openai.com)
-
-The list is regularly updated, so you can keep track of new prompts by following this repository.
-
 > **TIPS:** As there is a limit to the number of words that can be used in ChatGPT, you can input your text multiple times using the prompt "Read this [PARAPGRAPH]:" and then run your final prompt "Considering the above text...".
 
-## BRAINSTORMING
+> **建议：** 因为ChatGPT有输入字数限制，你可以用指令“Read this [PARAPGRAPH]:”，之后用指令"Considering the above text..."来进行多次输入
+
+## BRAINSTORMING 头脑风暴
 
 ```
 Find a research topic for a PhD in the area of [TOPIC]
 ```
 
+查找一个在「」领域的博士研究课题
+
 ```
 Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism. [PARAGRAPH]
 ```
+
+给一下研究主题写出详细的提案
 
 ```
 Identify gaps in the literature on [TOPIC SENTENCE]
 ```
 
+找出「」这些文献中的理论空白
+
 ```
 Generate 10 academic research questions about [PARAGRAPHS]
 ```
+
+基于以下段落，生成10个学术科研问题
 
 ```
 Generate a list of research hypotheses related to [TOPIC SENTENCE]
