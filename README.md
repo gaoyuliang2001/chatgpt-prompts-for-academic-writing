@@ -1,8 +1,8 @@
-![Cover image](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing/blob/main/cover.jpg)
-
 # ChatGPT Prompts for Academic Writing
 
 This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence. 
+
+这些命令提示语涵盖包括头脑风暴，语言和格式润色，撰写文献综述，制定研究计划等……
 
 Use directly in: [chat.openai.com](https://chat.openai.com)
 
