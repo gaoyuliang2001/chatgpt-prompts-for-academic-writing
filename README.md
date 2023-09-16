@@ -38,25 +38,35 @@ Generate 10 academic research questions about [PARAGRAPHS]
 Generate a list of research hypotheses related to [TOPIC SENTENCE]
 ```
 
+对某主题生成研究假设
+
 ```
 Identify potential areas for future research in the context of this [TOPIC SENTENCE]
 ```
+
+基于「」内容，明确潜在的研究课题
 
 ```
 Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH DOMAIN]
 ```
 
-## ARTICLE SECTIONS
+在「」研究主题下对「」的创新应用
 
-### Title/Topic Sentence
+## ARTICLE SECTIONS （文章创作）
+
+### Title/Topic Sentence （主题句）
 
 ```
 Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
 ```
 
+给摘要总结标题
+
 ```
 Write a topic sentences for this paragraph: [PARAGRAPH] 
 ```
+
+为如下段落概括主题句
 
 ### Keywords
 
@@ -64,47 +74,65 @@ Write a topic sentences for this paragraph: [PARAGRAPH]
 Provide 5 keywords for this: [PARAGRAPHS]
 ```
 
-### Abstract
+为这段话总结5个关键词
+
+### Abstract （摘要）
 
 ```
 Generate an abstract for a scientific paper based on this information for: [PARAGRAPHS]
 ```
 
-### Outline
+生成摘要
+
+### Outline（概括）
 
 ```
 Generate an outline for [TOPIC SENTENCE]
 ```
 
+生成一个总体架构
+
 ```
 I want to write a journal article about [TOPIC SENTENCE]. give me an outline for the article that I can use as a starting point.
 ```
 
-### Introduction
+我想写一篇关于（）主题的论文，请给我一个整体框架
+
+### Introduction（介绍）
 
 ```
 Come up with an introduction for the following research topic: [TOPIC SENTENCE]
 ```
 
-### Literature Review
+为以下研究想出一个简介
+
+### Literature Review（文献回顾）
 
 ```
 Conduct a literature review on [TOPIC SENTENCE] and provide review paper references
 ```
 
+撰写一个基于（）主题的文献回顾，并提供参考资料
+
 ```
 Provide me with references and links to papers in [PARAPGRAPH]
 ```
 
-> **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references
+提供给我这一段的参考资料
+
+> **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references GPT会创造本不存在的参考资料
 
 ```
 Summarize the scholarly literature including in text citations on [PARAGRAPHS]
 ```
 
+总结包含（这一段引用）的文献
+
 ```
 Write this in standart Harvard referencing [PARAGRAPH]
 ```
+
+参考这段文字（），将其用哈佛标准写作
 
 ```
 Convert this [BIBLIOGRAPHY] from MLA to APA style.
@@ -114,23 +142,33 @@ Convert this [BIBLIOGRAPHY] from MLA to APA style.
 Compare and contrast [THEORY1] and [THEORY2] in the context of [RESEARCH DOMAIN]:
 ```
 
-### Methodology
+在（）研究背景下对比理论和理论2
+
+### Methodology（方法论）
 
 ```
 Create objectives and methodology for [TOPIC SENTENCE]
 ```
 
+为研究课题制定研究对象和方法
+
 ```
 Write a detailed methodology for the topic: [TOPIC SENTENCE]
 ```
+
+给某个主题写详细的方法论
 
 ```
 Analyze the strengths and weaknesses of this methodology: [PARAGRAPHS]
 ```
 
+分析这种方法的优势和不足
+
 ```
 Write objectives for this study: [TOPIC SENTENCE]
 ```
+
+写下研究对象
 
 ```
 What are the limitations of using [TOPIC SENTENCE] in [RESEARCH DOMAIN]?
